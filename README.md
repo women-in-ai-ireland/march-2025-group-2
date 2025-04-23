@@ -61,4 +61,4 @@ With this project, we aim to contribute towards smarter, AI-assisted clinical re
 
 ## 🚀 Author
 
-**PinkSoso**
+**Sonia/Dipti/Mary**
