@@ -1,6 +1,3 @@
-# Création d'un fichier README.md avec du contenu Markdown
-
-readme_content = """
 # 💡 Leveraging AI for Faster and Efficient Clinical Trials with Focus on High Drop Rate
 
 ## 📘 Project Summary
@@ -64,12 +61,4 @@ With this project, we aim to contribute towards smarter, AI-assisted clinical re
 
 ## 🚀 Author
 
-**PinkSoso**  
-📧 Feel free to connect or contribute!
-"""
-
-# Écrire dans un fichier README.md
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md créé avec succès !")
+**PinkSoso**
