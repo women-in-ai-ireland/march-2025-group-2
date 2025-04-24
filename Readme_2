@@ -1,0 +1,30 @@
+Leveraging AI for Faster and Efficient Clinical Trials with a Focus on High Drop Rate
+
+Clinical trials are a cornerstone of medical research, yet they often face significant challenges such as long durations, high costs, and a frequent issue of participant dropout. These dropouts not only delay the progress of promising treatments but also increase operational burdens and compromise the integrity of the data.
+
+This project aims to explore how Artificial Intelligence (AI) can improve clinical trial efficiency by:
+Predicting dropout risks
+Identifying root causes
+Providing smart recommendations to retain participants
+
+
+Prediction Methodology
+To achieve the aim of this project, a dataset containing the below details will be required;
+Participant_ID – Unique code for each person
+Age, Gender, Country – Basic details
+Trial_Phase – Phase of the trial (1 to 4)
+Treatment_Type – Which drug/treatment they're getting
+Side_Effects_Severity – Mild / Moderate / Severe
+Missed_Appointments – How many times they missed a check-in
+Satisfaction_Score – From 1 to 10 (how happy they are)
+Dropped_Out – Yes or No (did they quit the trial?)
+Possible Dropout Reasons for participants who dropped out - Severe Side Effects /Couldn’t travel to location / Personal health issue
+
+Recommendations to Reduce Drop-out and Improve Trial Design
+The below dataset can be generated to recommend actions for participants at risk of dropping out;
+Risk_Level & Recommended_Action
+High - Increase support, offer transport, monitor side effects weekly
+Medium - Weekly check-ins, increase satisfaction
+Low- Maintain current engagement
+
+
