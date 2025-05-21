@@ -59,6 +59,9 @@ Improving participant retention in clinical trials has real-world impact:
 
 With this project, we aim to contribute towards smarter, AI-assisted clinical research practices.
 
+Project Main Files:
+ClinicalTrialsModel.ipynb
+
 ## 🚀 Author
 
 **Sonia/Dipti/Mary**
