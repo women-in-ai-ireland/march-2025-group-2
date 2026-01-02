@@ -1,4 +1,4 @@
-# 💡 Leveraging AI for Faster and Efficient Clinical Trials with Focus on High Drop Rate
+# 💡 Leveraging AI for Faster and Efficient Clinical Trials with Focus on High Drop Rate - HEALTHCARE INDUSTRY
 
 ## 📘 Project Summary
 
